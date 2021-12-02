@@ -17,5 +17,5 @@ https://github.com/creativelifeform/three-nebula - WebGL based particle system e
 https://github.com/addyosmani/visibly.js/ - Page Visibility API shim <br/>
 WebGL (сокращение от Web Graphics Library) - это JavaScript API для рендеринга интерактивной 2D и 3D графики в любом совместимом веб-браузере без использования плагинов. WebGL полностью интегрирован с другими веб-стандартами, позволяя ускоренному GPU использовать физику, обработку изображений и эффекты как часть холста веб-страницы. Способ осуществления взаимодействия в группе разработчиков. Как была выстроена работа в группе, какие способы коммуникации и принятия решений использовались. 	MagicVoxel – это воксельный Open Source редактор. Он содержит в себе не только инструменты для воксельного моделирования, но и включает в себя качественный рендер движок, который позволяет гибко настроить материалы и экспортировать их вместе с запечёнными AO текстурами и тенями. NotePad++ - редактор кода. Bfxr – приложение для создание 8-битных звуков.
 ## Authors
-Chikulaev Vladislav - frontend developer
-Kiselev Konstantin - backend developer
+Chikulaev Vladislav - frontend developer <br/>
+Kiselev Konstantin - backend developer <br/>
