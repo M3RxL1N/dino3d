@@ -2,7 +2,7 @@
 Dino 3D is a ThreeJS WebGL game.  
 All the graphics was hand crafted with Magica Voxel software, so that the appearance of the game is the same as in the original 2D game.
 # Screenshot
-![preview](https://github.com/M3RxL1N/proj/raw/master/preview/preview.png)
+![preview](https://github.com/M3RxL1N/proj/raw/master/preview.png)
 ## Target
 Изучить и подключить WebGL для работы с проектом в браузере, создать 3d – модели всех объектов в игре с помощью MagicVoxel, добавить окружение и звуки в игре. Изучить несколько новых языков для работы с web-приложениями, такие как JavaScript, HTML CSS(упрощает работу с html). Добавить проект на GitHub.
 ## Plan
