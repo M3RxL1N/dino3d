@@ -2,7 +2,8 @@
  * @author mrdoob / http://mrdoob.com/
  */
 
-var Stats = function () {
+var Stats = function () 
+{
 
 	var mode = 0;
 

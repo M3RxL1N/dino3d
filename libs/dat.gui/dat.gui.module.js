@@ -11,7 +11,8 @@
  * http://www.apache.org/licenses/LICENSE-2.0
  */
 
-function ___$insertStyle(css) {
+function ___$insertStyle(css) 
+{
   if (!css) {
     return;
   }

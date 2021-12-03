@@ -12,7 +12,8 @@
  * visibly.visibilitychange(callback(state));
  */
 
-;(function () {
+;(function () 
+{
 
     window.visibly = {
         q: document,
