@@ -1,4 +1,4 @@
- /**
+/**
  * @author alteredq / http://alteredqualia.com/
  *
  * Depth-of-field shader using mipmaps

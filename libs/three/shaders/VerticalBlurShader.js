@@ -1,4 +1,4 @@
- /**
+/**
  * @author zz85 / http://www.lab4games.net/zz85/blog
  *
  * Two pass Gaussian blur filter (horizontal and vertical blur shaders)

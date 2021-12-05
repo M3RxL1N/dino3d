@@ -5,7 +5,7 @@
  * @author Takahiro / https://github.com/takahirox
  * @author Don McCurdy / https://www.donmccurdy.com
  */
- 
+
 THREE.GLTFLoader = ( function () {
 
 	function GLTFLoader( manager ) {

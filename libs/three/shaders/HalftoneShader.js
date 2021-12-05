@@ -1,4 +1,4 @@
- /**
+/**
  * @author meatbags / xavierburrow.com, github/meatbags
  *
  * RGB Halftone shader for three.js.

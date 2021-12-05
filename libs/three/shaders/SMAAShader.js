@@ -1,4 +1,4 @@
- /**
+/**
  * @author mpk / http://polko.me/
  *
  * WebGL port of Subpixel Morphological Antialiasing (SMAA) v2.8

@@ -1,4 +1,4 @@
- /**
+/**
  * @author tapio / http://tapio.github.com/
  *
  * Brightness and contrast adjustment

@@ -1,4 +1,4 @@
- /**
+/**
  * @author WestLangley / http://github.com/WestLangley
  *
  * Gamma Correction Shader

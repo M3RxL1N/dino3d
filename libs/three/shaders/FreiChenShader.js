@@ -1,4 +1,4 @@
- /**
+/**
  * @author zz85 / https://github.com/zz85 | https://www.lab4games.net/zz85/blog
  *
  * Edge Detection Shader using Frei-Chen filter

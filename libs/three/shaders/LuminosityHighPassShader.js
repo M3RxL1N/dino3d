@@ -1,4 +1,4 @@
- /**
+/**
  * @author bhouston / http://clara.io/
  *
  * Luminosity
